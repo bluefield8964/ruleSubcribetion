@@ -94,8 +94,8 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,primevideo.com
-IP-CIDR,103.124.252.111/32
-IP-CIDR,103.124.254.219/32
+IP-CIDR,103.124.252.111/32,no-resolve
+IP-CIDR,103.124.254.219/32,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
