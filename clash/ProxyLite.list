@@ -20,6 +20,26 @@ DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com
 DOMAIN-SUFFIX,yunpanjingling.com
 
+# tw lol
+DOMAIN-KEYWORD,lol.tw
+DOMAIN-KEYWORD,riotgames.com
+DOMAIN-KEYWORD,riotcdn.net
+DOMAIN-KEYWORD,leagueoflegends.com
+DOMAIN-KEYWORD,support-leagueoflegends.riotgames.com
+DOMAIN-KEYWORD,auth.riotgames.com
+DOMAIN-KEYWORD,account.riotgames.com
+DOMAIN-KEYWORD,riotcdn.net
+DOMAIN-KEYWORD,cloudfront.net
+DOMAIN-KEYWORD,ddragon.leagueoflegends.com
+DOMAIN-KEYWORD,lolesports.com
+DOMAIN-KEYWORD,imgur.com
+DOMAIN-KEYWORD,lolstatic-a.akamaihd.net
+DOMAIN-KEYWORD,tw2-red.lol.sgp.pvp.net
+DOMAIN-KEYWORD,lolfinity.com
+DOMAIN-KEYWORD,feapp.tw2.lol.pvp.net
+DOMAIN-KEYWORD,lol.secure.dyn.riotcdn.net
+
+
 # 国外域名
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,hk
