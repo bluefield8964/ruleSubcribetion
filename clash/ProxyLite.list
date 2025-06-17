@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,xn--i2ru8q2qg.com
 DOMAIN-SUFFIX,yunpanjingling.com
 
 # tw lol
+IP-CIDR,79.127.241.196/7162,no-resolve
 DOMAIN-KEYWORD,scum.masterserver.info
 DOMAIN-KEYWORD,lol.tw
 DOMAIN-KEYWORD,riotgames.com
