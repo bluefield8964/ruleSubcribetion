@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,xn--i2ru8q2qg.com
 DOMAIN-SUFFIX,yunpanjingling.com
 
 # tw lol
-IP-CIDR,79.127.241.196/7162,no-resolve
 DOMAIN-KEYWORD,	proxy-1.scum.masterserver.info
 DOMAIN-KEYWORD,	proxy-2.scum.masterserver.info
 DOMAIN-KEYWORD,	proxy-3.scum.masterserver.info
