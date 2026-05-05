@@ -20,6 +20,14 @@ DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com
 DOMAIN-SUFFIX,yunpanjingling.com
 
+
+# 内容：Instagram
+# 数量：4条
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+
 # tw lol
 DOMAIN-KEYWORD,	proxy-1.scum.masterserver.info
 DOMAIN-KEYWORD,	proxy-2.scum.masterserver.info
