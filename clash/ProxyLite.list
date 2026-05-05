@@ -22,43 +22,17 @@ DOMAIN-SUFFIX,yunpanjingling.com
 
 
 
+# Instagram
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,akamaihd.net
 
 # 内容：Instagram
 # 数量：4条
 DOMAIN-KEYWORD,instagram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagr.am
-DOMAIN-SUFFIX,instagram.com
 
-# tw lol
-DOMAIN-KEYWORD,	proxy-1.scum.masterserver.info
-DOMAIN-KEYWORD,	proxy-2.scum.masterserver.info
-DOMAIN-KEYWORD,	proxy-3.scum.masterserver.info
-DOMAIN-KEYWORD,	proxy-4.scum.masterserver.info
-DOMAIN-KEYWORD,	proxy-5.scum.masterserver.info
-DOMAIN-KEYWORD,	proxy-6.scum.masterserver.info
-DOMAIN-KEYWORD,	proxy-7.scum.masterserver.info
-DOMAIN-KEYWORD,	proxy-8.scum.masterserver.info
-DOMAIN-KEYWORD,	proxy-9.scum.masterserver.info
-DOMAIN-KEYWORD,	proxy-10.scum.masterserver.info
-DOMAIN-KEYWORD,lol.tw
-DOMAIN-KEYWORD,riotgames.com
-DOMAIN-KEYWORD,riotcdn.net
-DOMAIN-KEYWORD,leagueoflegends.com
-DOMAIN-KEYWORD,support-leagueoflegends.riotgames.com
-DOMAIN-KEYWORD,auth.riotgames.com
-DOMAIN-KEYWORD,account.riotgames.com
-DOMAIN-KEYWORD,riotcdn.net
-DOMAIN-KEYWORD,cloudfront.net
-DOMAIN-KEYWORD,ddragon.leagueoflegends.com
-DOMAIN-KEYWORD,lolesports.com
-DOMAIN-KEYWORD,imgur.com
-DOMAIN-KEYWORD,lolstatic-a.akamaihd.net
-DOMAIN-KEYWORD,tw2-red.lol.sgp.pvp.net
-DOMAIN-KEYWORD,lolfinity.com
-DOMAIN-KEYWORD,feapp.tw2.lol.pvp.net
-DOMAIN-KEYWORD,lol.secure.dyn.riotcdn.net
-DOMAIN-KEYWORD,apse1-red.pp.sgp.pvp.net
+
 
 
 # 国外域名
@@ -101,28 +75,7 @@ USER-AGENT,Prime%20Video*
 DOMAIN-KEYWORD,avoddashs
 DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,d1v5ir2lpwr8os​.cloudfront.net
-DOMAIN-KEYWORD,​p6kh5352
-DOMAIN-KEYWORD,​q858r5e2
-DOMAIN-SUFFIX,​p6kh5352
-DOMAIN-SUFFIX,​q858r5e2
-DOMAIN,f1.​p6kh5352.xyz
-DOMAIN,f1.​q858r5e2.xyz
-DOMAIN,f2.p6kh5352.xyz
-DOMAIN,f2.​q858r5e2.xyz
-DOMAIN,f3.p6kh5352.xyz
-DOMAIN,f3.​q858r5e2.xyz
-DOMAIN,f4.p6kh5352.xyz
-DOMAIN,f4.​q858r5e2.xyz
-DOMAIN,f5.​​p6kh5352.xyz
-DOMAIN,f5.​q858r5e2.xyz
-DOMAIN,f6.​p6kh5352.xyz
-DOMAIN,f6.​q858r5e2.xyz
-DOMAIN,f7.​​p6kh5352.xyz
-DOMAIN,f7.​q858r5e2.xyz
-DOMAIN,f8.​p6kh5352.xyz
-DOMAIN,f8.​q858r5e2.xyz
-DOMAIN,f9.​p6kh5352.xyz
-DOMAIN,f9.​q858r5e2.xyz
+
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
@@ -135,8 +88,6 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,primevideo.com
-DOMAIN-SUFFIX,p6kh5352.xyz
-DOMAIN-SUFFIX,​q858r5e2.xyz
 IP-CIDR,103.124.252.111/32,no-resolve
 IP-CIDR,103.124.254.219/32,no-resolve
 IP-CIDR,13.32.0.0/15,no-resolve
@@ -249,11 +200,6 @@ DOMAIN-SUFFIX,ytimg.com
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 
-# Instagram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,instagr.am
-DOMAIN-SUFFIX,akamaihd.net
 
 # Kakao Talk
 DOMAIN-SUFFIX,kakao.com
